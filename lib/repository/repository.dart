@@ -1,0 +1,1 @@
+export 'financial_detail_repository/financial_detail_repository.dart';

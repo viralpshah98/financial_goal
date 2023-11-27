@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882949046165",
+    "project_id": "financial-goal-monitor-app",
+    "storage_bucket": "financial-goal-monitor-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882949046165:android:3950eb6ff0f861217f409c",
+        "android_client_info": {
+          "package_name": "com.example.financial_goal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtq1USIK7JCw-SAUkV31r8kXiWWvuhNZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
